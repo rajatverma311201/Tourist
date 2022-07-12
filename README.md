@@ -1,13 +1,11 @@
 # Tourist Website
 
-## A responsive tourist website with an Elegant design, beautiful typography, light CSS animations and transitions
+## [Click to see the Live Demo](https://rajatverma311201.github.io/Tourist/)
 
-Made in pure
-HTML
-CSS
-JavaScript
+## A responsive tourist website with an Elegant design, beautiful typography, light CSS animations and transitions
 
 ## Made in Pure
 
-Markup : 1. HTML  
- 2. CSS 3. JavaScript
+> 1. HTML
+> 2. CSS
+> 3. JavaScript
